@@ -33,7 +33,7 @@ I am a growing developer passionate about building clean, interactive, and usefu
 ### 1. MarvelTechHub4U
 A technology service platform designed to showcase tech repair services, products, and customer support information.
 
-- **Live Demo:** [Link](marveltech-hub-site.vercel.app/) 
+- **Live Demo:** [View Live](https://marveltech-hub-site.vercel.app/)
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/marveltech-hub-site)
 
 ---
@@ -41,7 +41,7 @@ A technology service platform designed to showcase tech repair services, product
 ### 2. Haven Word Church
 A church website built to provide an online presence for members and visitors, making it easier to access service information, messages, and important updates.
 
-- **Live Demo:** [Link](haven-word-church-7qs9.vercel.app/)
+- **Live Demo:** [View Live](haven-word-church-7qs9.vercel.app/)
 - **Source Code:**[View on GitHub](https://github.com/ESTIE-CREATOR/Haven_word_church)
 
 ---
@@ -49,7 +49,7 @@ A church website built to provide an online presence for members and visitors, m
 ### 3. Algo Trading With Ighodalo
 A comprehensive web platform for managing and distributing Expert Advisors for MetaTrader 5, including licensing, sales, and account management workflows.
 
-- **Live Demo:** [Link](algo-vista-hub-12.vercel.app)
+- **Live Demo:** [View Live](algo-vista-hub-12.vercel.app)
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Algo-Trading-With-Ighodalo)
 
 ---
@@ -57,7 +57,7 @@ A comprehensive web platform for managing and distributing Expert Advisors for M
 ### 4. Nike Landing Page Recreated
 A modern Nike landing page built with React, Vite, and Tailwind CSS, featuring responsive design, sleek layout sections, and product-focused presentation.
 
-- **Live Demo:** [Link](nike-landing-page-recreated.vercel.app)
+- **Live Demo:**[View Live](nike-landing-page-recreated.vercel.app)
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Nike-Landing-Page-recreated-)
 
 ---
@@ -65,7 +65,7 @@ A modern Nike landing page built with React, Vite, and Tailwind CSS, featuring r
 ### 5. Positivus Landing Page
 A responsive marketing agency website showcasing services, success stories, and insights to help businesses grow in the digital space.
 
-- **Live Demo:** [Link](positivus-landing-page-eta.vercel.app)
+- **Live Demo:** [View Live](positivus-landing-page-eta.vercel.app)
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Positivus-Landing-Page)
 
 ---
@@ -73,7 +73,7 @@ A responsive marketing agency website showcasing services, success stories, and 
 ### 6. Foodie Fetch App
 A recipe search app built with HTML, CSS, and Vanilla JavaScript that lets users search for meals based on ingredients.
 
-- **Live Demo:**[Link](foodie-fetch-app.vercel.app)
+- **Live Demo:**[View Live](foodie-fetch-app.vercel.app)
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Foodie-Fetch-App)
 
 ---
@@ -81,7 +81,7 @@ A recipe search app built with HTML, CSS, and Vanilla JavaScript that lets users
 ### 7. Love Sparkle Calculator
 A fun and interactive app that takes two names as input and generates a playful love compatibility score.
 
-- **Live Demo:** [Link](love-sparkle-calculato.vercel.app)
+- **Live Demo:**[View Live](love-sparkle-calculato.vercel.app)
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Love-sparkle-calculator)
 
 ---
