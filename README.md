@@ -49,7 +49,7 @@ A church website built to provide an online presence for members and visitors, m
 ### 3. Algo Trading With Ighodalo
 A comprehensive web platform for managing and distributing Expert Advisors for MetaTrader 5, including licensing, sales, and account management workflows.
 
-- **Live Demo:** [View Live](https://algo-vista-hub-12.vercel.app/)
+- **Live Demo:** [View Live](https://www.algotradingwithighodalo.xyz/)
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Algo-Trading-With-Ighodalo)
 
 ---
