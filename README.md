@@ -41,7 +41,7 @@ A technology service platform designed to showcase tech repair services, product
 ### 2. Haven Word Church
 A church website built to provide an online presence for members and visitors, making it easier to access service information, messages, and important updates.
 
-- **Live Demo:** [View Live](https://haven-word-church-7qs9.vercel.app/)
+- **Live Demo:** [View Live](https://havenwordchurch.com/)
 - **Source Code:**[View on GitHub](https://github.com/ESTIE-CREATOR/Haven_word_church)
 
 ---
