@@ -28,6 +28,21 @@ I am a growing developer passionate about building clean, interactive, and usefu
 
 ---
 
+##**Core Skills**
+- Data Analysis & Interpretation
+- Research & Experimental Design
+- Problem Solving & Critical Thinking
+- Laboratory Techniques (PCR, ELISA, HPLC, Spectrophotometry)
+- Machine Learning Fundamentals
+- API Integration & Automation
+- Full-Stack Web Development (React, TypeScript)
+- Scientific Writing & Reporting
+- Stakeholder Communication
+- Process Improvement & Documentation
+- Adaptability & Team Collaboration
+
+---
+
 ## Featured Projects
 
 ### 1. MarvelTechHub4U
@@ -106,6 +121,25 @@ A web-based project that dynamically displays user information along with the cu
 A JavaScript project that checks whether a word, phrase, or number reads the same forward and backward.
 
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Palindrome-Checker)
+
+---
+### 11. Telegram Cell Report Bot
+A Telegram bot that automates the collection and reporting of cell-related data. It processes user inputs, structures the information, and generates organized reports in real time, improving efficiency and reducing manual data handling.
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Telegram-Cell-Report-Bot)
+
+---
+### 10. Customer Churn Predictor
+A Customer Churn Predictor is a machine learning model that analyzes customer data (such as usage, demographics, and subscription details) to identify which customers are likely to stop using a service. It helps businesses take proactive actions—like targeted offers or improved support—to retain customers and reduce revenue loss.
+
+- **Live Demo:**[View Live](https://customer-churn-predictor-latest.streamlit.app/)
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/CUSTOMER-CHURN-PREDICTOR)
+
+---
+### 10. Research Paper Assistant
+An AI-powered tool designed to assist with academic research by summarizing papers, extracting key insights, and organizing information. It streamlines the research process, making it easier to analyze and understand complex scholarly content.
+
+- **Live Demo:**[View Live](https://research-paper-assistant-latsest.streamlit.app/)
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Research-Paper-Assistant)
 
 ---
 
