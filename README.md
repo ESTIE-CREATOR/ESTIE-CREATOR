@@ -28,7 +28,7 @@ I am a growing developer passionate about building clean, interactive, and usefu
 
 ---
 
-##**Core Skills**
+**Core Skills**
 - Data Analysis & Interpretation
 - Research & Experimental Design
 - Problem Solving & Critical Thinking
