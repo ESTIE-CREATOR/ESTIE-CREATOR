@@ -2,8 +2,7 @@
 
 ### ESTIE-CREATOR
 
-I am a growing developer passionate about building clean, interactive, and useful digital products. I enjoy creating web applications, games, landing pages, and practical tools while steadily growing my skills in software development, AI engineering, and problem solving.
-
+I build data-driven and user-focused applications using modern web technologies. My work spans frontend development, automation systems, and applied machine learning, with a focus on solving real-world problems.
 ---
 
 ## About Me
@@ -44,15 +43,15 @@ I am a growing developer passionate about building clean, interactive, and usefu
 ---
 
 ## Featured Projects
+## Frontend & Web Applications
 
-### 1. MarvelTechHub4U
-A technology service platform designed to showcase tech repair services, products, and customer support information.
+### 1. Algo Trading With Ighodalo
+A comprehensive web platform for managing and distributing Expert Advisors for MetaTrader 5, including licensing, sales, and account management workflows.
 
-- **Live Demo:** [View Live](https://marveltech-hub-site.vercel.app/)
-- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/marveltech-hub-site)
+- **Live Demo:** [View Live](https://www.algotradingwithighodalo.xyz/)
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Algo-Trading-With-Ighodalo)
 
 ---
-
 ### 2. Haven Word Church
 A church website built to provide an online presence for members and visitors, making it easier to access service information, messages, and important updates.
 
@@ -61,11 +60,11 @@ A church website built to provide an online presence for members and visitors, m
 
 ---
 
-### 3. Algo Trading With Ighodalo
-A comprehensive web platform for managing and distributing Expert Advisors for MetaTrader 5, including licensing, sales, and account management workflows.
+### 3. MarvelTechHub4U
+A technology service platform designed to showcase tech repair services, products, and customer support information.
 
-- **Live Demo:** [View Live](https://www.algotradingwithighodalo.xyz/)
-- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Algo-Trading-With-Ighodalo)
+- **Live Demo:** [View Live](https://marveltech-hub-site.vercel.app/)
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/marveltech-hub-site)
 
 ---
 
@@ -93,49 +92,20 @@ A recipe search app built with HTML, CSS, and Vanilla JavaScript that lets users
 
 ---
 
-### 7. Love Sparkle Calculator
-A fun and interactive app that takes two names as input and generates a playful love compatibility score.
-
-- **Live Demo:**[View Live](https://love-sparkle-calculato.vercel.app/)
-- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Love-sparkle-calculator)
-
----
-
-### 8. Snake Game
-A classic arcade-style Python game where players control a snake, collect food to grow longer, and avoid collisions to keep the game going.
-
-- **Live Demo:** Desktop project
-- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Snake-Game)
-
----
-
-### 9. Profile Card
-A web-based project that dynamically displays user information along with the current time using HTML, CSS, and JavaScript.
-
-
-- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Profile-Card)
-
----
-
-### 10. Palindrome Checker
-A JavaScript project that checks whether a word, phrase, or number reads the same forward and backward.
-
-- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Palindrome-Checker)
-
----
-### 11. Telegram Cell Report Bot
+## Data & Intelligent Systems
+### 7. Telegram Cell Report Bot
 A Telegram bot that automates the collection and reporting of cell-related data. It processes user inputs, structures the information, and generates organized reports in real time, improving efficiency and reducing manual data handling.
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Telegram-Cell-Report-Bot)
 
 ---
-### 12. Customer Churn Predictor
+### 8. Customer Churn Predictor
 A Customer Churn Predictor is a machine learning model that analyzes customer data (such as usage, demographics, and subscription details) to identify which customers are likely to stop using a service. It helps businesses take proactive actions—like targeted offers or improved support—to retain customers and reduce revenue loss.
 
 - **Live Demo:**[View Live](https://customer-churn-predictor-latest.streamlit.app/)
 - **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/CUSTOMER-CHURN-PREDICTOR)
 
 ---
-### 13. Research Paper Assistant
+### 9. Research Paper Assistant
 An AI-powered tool designed to assist with academic research by summarizing papers, extracting key insights, and organizing information. It streamlines the research process, making it easier to analyze and understand complex scholarly content.
 
 - **Live Demo:**[View Live](https://research-paper-assistant-latsest.streamlit.app/)
@@ -143,6 +113,35 @@ An AI-powered tool designed to assist with academic research by summarizing pape
 
 ---
 
+## Additional Projects
+### 10. Palindrome Checker
+A JavaScript project that checks whether a word, phrase, or number reads the same forward and backward.
+
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Palindrome-Checker)
+
+---
+### 11. Snake Game
+A classic arcade-style Python game where players control a snake, collect food to grow longer, and avoid collisions to keep the game going.
+
+- **Live Demo:** Desktop project
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Snake-Game)
+
+---
+### 12. Love Sparkle Calculator
+A fun and interactive app that takes two names as input and generates a playful love compatibility score.
+
+- **Live Demo:**[View Live](https://love-sparkle-calculato.vercel.app/)
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Love-sparkle-calculator)
+
+---
+
+### 13. Profile Card
+A web-based project that dynamically displays user information along with the current time using HTML, CSS, and JavaScript.
+
+
+- **Source Code:** [View on GitHub](https://github.com/ESTIE-CREATOR/Profile-Card)
+
+---
 
 ## Current Focus
 
