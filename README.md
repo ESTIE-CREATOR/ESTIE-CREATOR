@@ -2,7 +2,7 @@
 
 ### ESTIE-CREATOR
 
-I build data-driven and user-focused applications using modern web technologies. My work spans frontend development, automation systems, and applied machine learning, with a focus on solving real-world problems.
+Software developer focused on building practical products that solve real business problems. I've built trading platforms, automation systems, machine learning applications, and responsive web experiences used by real users. I enjoy turning ideas into reliable software and continuously improving my engineering skills.
 ---
 
 ## About Me
@@ -28,14 +28,11 @@ I build data-driven and user-focused applications using modern web technologies.
 ---
 
 **Core Skills**
-- Data Analysis & Interpretation
-- Research & Experimental Design
+- Data Analysis & Interpretation 
 - Problem Solving & Critical Thinking
-- Laboratory Techniques (PCR, ELISA, HPLC, Spectrophotometry)
 - Machine Learning Fundamentals
 - API Integration & Automation
 - Full-Stack Web Development (React, TypeScript)
-- Scientific Writing & Reporting
 - Stakeholder Communication
 - Process Improvement & Documentation
 - Adaptability & Team Collaboration
